@@ -17,10 +17,7 @@
 ---
 <div align="center">
 
-<a href="#">
-  <img src="https://img.shields.io/badge/%E7%8E%B0%E5%B7%B2%E6%9B%B4%E6%96%B0-windows%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE%E6%8E%92%E5%9D%91%E6%8C%87%E5%8D%97%E3%80%81s0%E5%85%A5%E9%97%A8%E5%AD%A6%E4%B9%A0%E6%96%87%E6%A1%A3-ff0000?style=for-the-badge&amp;labelColor=ffff00" alt="现已更新：windows环境配置排坑指南、入门学习文档https://github.com/qingwen0401/KamaClaude-Learning">
-</a>
-
+> ## 🚨🔥 现已更新：windows环境配置排坑指南、入门学习文档详情见 [https://github.com/qingwen0401/KamaClaude-Learning](https://github.com/qingwen0401/KamaClaude-Learning) 🔥🚨
 </div>
 
 ## 项目定位
