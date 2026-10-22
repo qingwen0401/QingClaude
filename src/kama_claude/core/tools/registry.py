@@ -2,7 +2,7 @@ from __future__ import annotations
 
 from kama_claude.core.tools.base import BaseTool
 
-
+#tool注册表，负责管理所有可用工具的注册和查询
 class ToolRegistry:
     def __init__(self) -> None:
         self._tools: dict[str, BaseTool] = {}
